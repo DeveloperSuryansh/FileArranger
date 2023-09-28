@@ -1,0 +1,3 @@
+D:/Suryansh/Workspace/VisualStudio/FilesArranger/out/build/x64-release/CMakeFiles/FilesArranger.dir
+D:/Suryansh/Workspace/VisualStudio/FilesArranger/out/build/x64-release/CMakeFiles/edit_cache.dir
+D:/Suryansh/Workspace/VisualStudio/FilesArranger/out/build/x64-release/CMakeFiles/rebuild_cache.dir
